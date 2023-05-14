@@ -358,4 +358,7 @@ font-weight: 700;
     .text-center1{
         text-align: center;
     }
+    .product-title{
+        padding-top: 10px;
+    }
 }
